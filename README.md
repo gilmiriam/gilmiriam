@@ -1,4 +1,14 @@
-### Hi there, I'm Miriam Gil 👋
+<div align="center">
+<h1>Hi there, I'm Miriam Gil 👋</h1>
+</div>
+
+<img src="resources/main_frame.png"/>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+- 🔭 I’m currently working on <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="20" height="20"/> </a>
+- 👯 I’m looking to collaborate on <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a>
+
 
 <!--
 **gilmiriam/gilmiriam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
