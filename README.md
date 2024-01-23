@@ -18,19 +18,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
       alt="go" width="40" height="40" /> <a href="https://go.dev/learn/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
-      alt="kotlin" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="kotlin" width="40" height="40" /> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-      alt="aws" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="aws" width="40" height="40" /> <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-      alt="docker" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="docker" width="40" height="40" /> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-      alt="git" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="git" width="40" height="40" /> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"
-      alt="gradle" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="gradle" width="40" height="40" /> <a href="https://gradle.org/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-      alt="mysql" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="mysql" width="40" height="40" /> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-      alt="postgresql" width="40" height="40" /> <a href="" target="_blank" rel="noreferrer"></a>
+      alt="postgresql" width="40" height="40" /> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
